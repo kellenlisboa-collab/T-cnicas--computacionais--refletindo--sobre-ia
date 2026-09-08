@@ -1,1 +1,1 @@
-# T-cnicas--computacionais--refletindo--sobre-ia
+# Tecnicas--computacionais--refletindo--sobre-ia
